@@ -18,6 +18,6 @@ print(small)
 
 my_list = [10, 10.5, 20, 30, 25.6, 19.25, 11.01, 29.99]
 
-small = sorted(my_list)[0]  #  You can also use the 'sorted(my_list)[0]' instead of min(my_list)
+small = min(my_list)  #  You can also use the 'sorted(my_list)[0]' instead of min(my_list)
 
 print(small)
