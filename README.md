@@ -1,2 +1,2 @@
-# 250plus python questions and solutions
+# 100-tricky-python-exercises-and-solutions
  
